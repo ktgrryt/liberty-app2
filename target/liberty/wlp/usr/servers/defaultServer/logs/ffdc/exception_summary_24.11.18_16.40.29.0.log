@@ -1,0 +1,6 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      1 2024/11/18 16:40:29:218 JST 2024/11/18 16:40:29:218 JST java.security.InvalidParameterException com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters 1105
+                                                                            - /Users/ryotokatagiri/Code/liberty-app2/target/liberty/wlp/usr/servers/defaultServer/logs/ffdc/ffdc_24.11.18_16.40.29.0.log
+------+------+---------------------------+---------------------------+---------------------------
