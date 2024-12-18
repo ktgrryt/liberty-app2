@@ -1,5 +1,5 @@
-#Mon Nov 18 10:37:50 JST 2024
-lib/com.ibm.ws.javaee.platform.v7_1.0.95.jar=c71b8489143b349cd82812462106c00c
-lib/com.ibm.ws.javaee.platform.defaultresource_1.0.95.jar=326dc85baddd513c220a282952090180
-lib/features/com.ibm.websphere.appserver.javaeePlatform-7.0.mf=743909ef07942e4f48732fdd86672d7f
-lib/com.ibm.ws.javaee.version_1.0.95.jar=4dc9dd805114bece1c687f8bb6f2898d
+#Tue Dec 17 15:27:22 JST 2024
+lib/features/com.ibm.websphere.appserver.javaeePlatform-7.0.mf=3faed8ee4c26455e8d5bcdb58983b25d
+lib/com.ibm.ws.javaee.version_1.0.96.jar=8ad257c6cefdcb9afdcc882555c1160d
+lib/com.ibm.ws.javaee.platform.defaultresource_1.0.96.jar=82419beb9ffd473b34c897550dae6a37
+lib/com.ibm.ws.javaee.platform.v7_1.0.96.jar=70730d50af2e11f6cb0aef36bc71c116

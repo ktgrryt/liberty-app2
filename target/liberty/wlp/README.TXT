@@ -1,4 +1,4 @@
-Open Liberty Version 24.0.0.11 - (24.0.0.11-202410211121)
+Open Liberty Version 24.0.0.12 - (24.0.0.12-202411190723)
 
 
 I. CONTROLLING OPEN LIBERTY

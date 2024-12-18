@@ -1,5 +1,5 @@
-#Mon Nov 18 10:37:50 JST 2024
-lib/com.ibm.ws.transport.http_1.0.95.jar=2e521b86e1d6b0bd4ea4ac96b7501fed
-lib/features/com.ibm.websphere.appserver.httptransport-1.0.mf=6b49b67d7f05bc242d2b01a3e2068bbf
-dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.httptransport_4.2-javadoc.zip=8d82fb476eda4377609a149605bf590a
-dev/spi/ibm/com.ibm.websphere.appserver.spi.httptransport_4.2.95.jar=5116f431ce1dcc9976edb1710de921e3
+#Tue Dec 17 15:27:22 JST 2024
+dev/spi/ibm/com.ibm.websphere.appserver.spi.httptransport_4.2.96.jar=c30488540404a57f83ea5977190e209c
+lib/com.ibm.ws.transport.http_1.0.96.jar=d6945881bb12895f93a6dccd845c0cc8
+lib/features/com.ibm.websphere.appserver.httptransport-1.0.mf=72817efce1b9e5f6f4dcc37a5ad1b03d
+dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.httptransport_4.2-javadoc.zip=c8ca1cfb3eb67e17fa3504eabef7838e

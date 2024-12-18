@@ -1,5 +1,5 @@
-#Mon Nov 18 10:37:50 JST 2024
-lib/features/com.ibm.websphere.appserver.anno-2.0.mf=8fb104477cae7c27181728ad3ecdf90b
-lib/com.ibm.ws.anno_1.1.95.jar=fc1880963adccad1271c4c3dd2790469
-dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.anno_1.1-javadoc.zip=7d31e0c59481325073a4b487e7cfb5e7
-dev/spi/ibm/com.ibm.websphere.appserver.spi.anno_1.1.95.jar=ceb5be9af0d26fea2325a7c4e7ea9c9f
+#Tue Dec 17 15:27:22 JST 2024
+lib/features/com.ibm.websphere.appserver.anno-2.0.mf=f020dac480cc7b40147c5450d01de4e5
+dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.anno_1.1-javadoc.zip=19511ae35efdcf69012fb26aa366e59a
+dev/spi/ibm/com.ibm.websphere.appserver.spi.anno_1.1.96.jar=25d6b338e0b450819aa882f2ff38cbe9
+lib/com.ibm.ws.anno_1.1.96.jar=9a4d5e818024f3335d9a7983dde3f404

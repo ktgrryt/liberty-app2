@@ -1,3 +1,3 @@
-#Mon Nov 18 10:37:50 JST 2024
-lib/features/io.openliberty.jakarta.annotation-2.0.mf=d887575b1fb0d7240ac1527d96ec716b
-dev/api/spec/io.openliberty.jakarta.annotation.2.0_1.0.95.jar=cb4ce2bda24cd739ce136d84a0eb03f5
+#Tue Dec 17 15:27:22 JST 2024
+lib/features/io.openliberty.jakarta.annotation-2.0.mf=7c9b824d903efde92f86873d3e3fc2ab
+dev/api/spec/io.openliberty.jakarta.annotation.2.0_1.0.96.jar=d8e840e54f540065c1bcc1967a2b4d25

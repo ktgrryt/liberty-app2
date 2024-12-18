@@ -1,3 +1,3 @@
-#Mon Nov 18 10:37:50 JST 2024
-lib/features/io.openliberty.servlet.api-5.0.mf=c32ce4b0d48d6640267886e9d06c1180
-dev/api/spec/io.openliberty.jakarta.servlet.5.0_1.0.95.jar=7a59bc3df8eab774c8c04dfbef60358c
+#Tue Dec 17 15:27:22 JST 2024
+lib/features/io.openliberty.servlet.api-5.0.mf=47ecd99d132c7e29700d8fc47b3571d7
+dev/api/spec/io.openliberty.jakarta.servlet.5.0_1.0.96.jar=0a41162cadab076bc0dd4608c6c9d8b2

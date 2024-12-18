@@ -1,9 +1,9 @@
-#Mon Nov 18 10:37:50 JST 2024
-dev/api/ibm/com.ibm.websphere.appserver.api.basics_1.4.95.jar=6422f2e1a6cdb13efc1f3eec6d52d61e
-lib/features/com.ibm.websphere.appserver.appmanager-1.0.mf=44580487a338f9f448668abb391241e1
-lib/com.ibm.ws.app.manager_1.1.95.jar=5ef2a02910ee21dd06100a8eee9c639d
-dev/spi/ibm/com.ibm.websphere.appserver.spi.application_1.1.95.jar=db5198d44e8eeb29ad870621ac1b3d5d
-dev/api/ibm/javadoc/com.ibm.websphere.appserver.api.basics_1.4-javadoc.zip=58660a6147bf8ac84080ab6a51659563
-lib/com.ibm.ws.app.manager.ready_1.0.95.jar=796e87173144b6060fd6670725993002
-dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.application_1.1-javadoc.zip=44887b54491dfb734ede38755b3879e1
-lib/com.ibm.websphere.security_1.1.95.jar=dee365d78227a819bb810fcbc03d7485
+#Tue Dec 17 15:27:22 JST 2024
+dev/api/ibm/com.ibm.websphere.appserver.api.basics_1.4.96.jar=e09e163ced129bcccf1c476f4d0d0411
+lib/features/com.ibm.websphere.appserver.appmanager-1.0.mf=295a4546e20de0e2db45fe77195aea37
+lib/com.ibm.ws.app.manager_1.1.96.jar=3a28cb093bc65643782b0f87f87a79f2
+dev/api/ibm/javadoc/com.ibm.websphere.appserver.api.basics_1.4-javadoc.zip=df0889a88cbecab2b6b7ced90f9690d5
+dev/spi/ibm/com.ibm.websphere.appserver.spi.application_1.1.96.jar=b9aa972f7e098fa09a1c8218d4c83c07
+dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.application_1.1-javadoc.zip=9c46e7364b148be623b37a177548f900
+lib/com.ibm.websphere.security_1.1.96.jar=2e91016376548563c7bece2a70e0efa4
+lib/com.ibm.ws.app.manager.ready_1.0.96.jar=c234a6eadba3d9a601e8dfbe80edf4f9
